@@ -27,7 +27,7 @@ To control the brightness intensity I use MediaPipe Hands lib. This lib can trac
 
 ![Hand Landmarks](hand_landmarks.png)
 
-To put everything together, I use a node back-end with Express to create API endpoints that trigger YEELIGHT AWESOME commands. At the front-end I just write some functions to listen to Tensorflow and MediaPipe and call the back-end. You can find the code [here](frontend/main.js).
+To put everything together, I use a node back-end with Express to create API endpoints that trigger YEELIGHT AWESOME commands. At the front-end I just write some functions to listen to Tensorflow and MediaPipe and call the back-end. You can find the code [here](../frontend/main.js).
 
 ## Improvements
 The Yeelight also can change colors so it is possible to train more categories like clap and whistle with Tensorflow or listen for other types of movements to play with the light. 
