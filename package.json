@@ -1,0 +1,16 @@
+{
+  "name": "yeelight-hand-controller",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "yeelight-awesome": "^1.0.12"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
