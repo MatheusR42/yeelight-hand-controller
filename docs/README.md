@@ -8,7 +8,7 @@ With Yeelight Hand Controller you can turn on and off your Yeelight just with a 
 
 * Webcam
 * Microphone
-* [Yeelight 2nd generation YLDP06YL](https://www.amazon.com/YEELIGHT-YLDP06YL-Wireless-Control-Colorful/dp/B0841PXPLB) (it's possible to use another versions too, you will just need to find out a nice lib to work with your version)
+* [Yeelight 2nd generation YLDP06YL](https://www.amazon.com/YEELIGHT-YLDP06YL-Wireless-Control-Colorful/dp/B0841PXPLB) (it's possible to use other versions too, you will just need to find out a nice lib to work with your version)
 
 ## Libs
 * [TensorFlow.js](https://www.tensorflow.org/js)
